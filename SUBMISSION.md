@@ -17,19 +17,22 @@
 
 1. 工作區 vs 暫存區：
 
-   ```bash git diff
+   ```bash 
+   git diff
    
    ```
 
 2. 暫存區 vs 上一次 commit：
 
-   ```bash git diff --cached
+   ```bash 
+   git diff --cached
    
    ```
 
 3. 工作區 vs 上一次 commit：
 
-   ```bash git diff HEAD
+   ```bash 
+   git diff HEAD
    
    ```
 
