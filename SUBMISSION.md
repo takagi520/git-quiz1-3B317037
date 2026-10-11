@@ -1,15 +1,15 @@
 # 作答資料
 
-- 學號：
-- 姓名：
+- 學號：3b317037
+- 姓名：高義鈞
 
 ## 第 2 題：Git 的三個版本
 
 請填寫完成第二步後，`version.txt` 在三個位置中的內容。
 
-- 已提交版本：
-- 暫存區版本：
-- 工作區版本：
+- 已提交版本：v1
+- 暫存區版本：v2
+- 工作區版本：v3
 
 ### 使用的 Git 指令
 
@@ -17,28 +17,28 @@
 
 1. 工作區 vs 暫存區：
 
-   ```bash
+   ```bash git diff
    
    ```
 
 2. 暫存區 vs 上一次 commit：
 
-   ```bash
+   ```bash git diff --cached
    
    ```
 
 3. 工作區 vs 上一次 commit：
 
-   ```bash
+   ```bash git diff HEAD
    
    ```
 
 ## 完成前自我檢查
 
-- [ ] 我保留了題目專案原本的 Git commit 歷史。
-- [ ] `.vscode` 已從目前版本開始停止追蹤，但本機檔案仍保留。
-- [ ] `version.txt` 的 Git 歷史依序為 `v1 → v2 → v3`。
-- [ ] 程式修正與文件修改分成不同的 commit。
-- [ ] `python app.py` 執行後平均為 `72.6`。
+- [ x] 我保留了題目專案原本的 Git commit 歷史。
+- [ x] `.vscode` 已從目前版本開始停止追蹤，但本機檔案仍保留。
+- [ x] `version.txt` 的 Git 歷史依序為 `v1 → v2 → v3`。
+- [ x] 程式修正與文件修改分成不同的 commit。
+- [ x] `python app.py` 執行後平均為 `72.6`。
 - [ ] 我已確認 `git status` 沒有尚未處理的變更。
 - [ ] 我已把完成結果推送到自己的 GitHub Repository。
