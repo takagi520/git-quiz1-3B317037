@@ -38,10 +38,10 @@
 
 ## 完成前自我檢查
 
-- [ x] 我保留了題目專案原本的 Git commit 歷史。
-- [ x] `.vscode` 已從目前版本開始停止追蹤，但本機檔案仍保留。
-- [ x] `version.txt` 的 Git 歷史依序為 `v1 → v2 → v3`。
-- [ x] 程式修正與文件修改分成不同的 commit。
-- [ x] `python app.py` 執行後平均為 `72.6`。
-- [ ] 我已確認 `git status` 沒有尚未處理的變更。
-- [ ] 我已把完成結果推送到自己的 GitHub Repository。
+- [x] 我保留了題目專案原本的 Git commit 歷史。
+- [x] `.vscode` 已從目前版本開始停止追蹤，但本機檔案仍保留。
+- [x] `version.txt` 的 Git 歷史依序為 `v1 → v2 → v3`。
+- [x] 程式修正與文件修改分成不同的 commit。
+- [x] `python app.py` 執行後平均為 `72.6`。
+- [x] 我已確認 `git status` 沒有尚未處理的變更。
+- [x] 我已把完成結果推送到自己的 GitHub Repository。
